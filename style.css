@@ -1,0 +1,4 @@
+body { background-color: #f8f9fa; color: #212529; }
+.light-theme { background-color: #ffffff; color: #212529; }
+.dark-theme { background-color: #212529; color: #ffffff; }
+#theme-toggle { cursor: pointer; }
