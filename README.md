@@ -19,3 +19,23 @@ TDS generated repo
 **Pages URL:** [https://vinaysinghchaudhary1.github.io/modern-analytics-dashboard-analytics101/](https://vinaysinghchaudhary1.github.io/modern-analytics-dashboard-analytics101/)
 
 ---
+
+
+## 🔁 Round 2 Update (2025-10-17)
+
+**Brief:** Upgrade the analytics dashboard to include date filtering, real-time updates, and a notification system with Bootstrap tooltips and badges.
+
+**Checks:**
+- !!document.querySelector('#date-range-filter')
+- !!document.querySelector('#notifications-panel')
+- !!document.querySelector('#metrics-summary')
+- !!document.querySelector('.notification-badge')
+- !!document.querySelector('[data-bs-toggle="tooltip"]')
+
+**Status:** ✅ Redeployed
+
+**Pages URL:** [https://VinaySinghChaudhary1.github.io/modern-analytics-dashboard-analytics101/](https://VinaySinghChaudhary1.github.io/modern-analytics-dashboard-analytics101/)
+
+> ⏳ **Note:** GitHub Pages may take around 10 minutes to fully render and reflect all updates for this round.
+
+---
